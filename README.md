@@ -70,7 +70,7 @@ Features include:
 **Tech**: HTML, CSS, Tailwind CSS, JavaScript  
 
 > (Add the repo link once it’s public, e.g.  
-> `🔗 Repo: [Image to HTML Converter](https://github.com/ModelMaven/image-to-html-converter/)`)
+> `🔗 Repo: [Image to HTML Converter](https://github.com/ModelMaven/image-to-html-converter/)`
 
 ---
 
