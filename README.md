@@ -1,5 +1,5 @@
 <!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Sameer+Singh;Product+Analyst+%26+Aspiring+ML+Engineer;Data+Science+%7C+Data+Engineering+%7C+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Sameer+Singh;Product+Analyst+%26+Aspiring+ML+Engineer;Data+Science+%7C+Data+Engineering+%7C+Analyst)](https://git.io/typing-svg)
 
 ---
 
