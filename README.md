@@ -1,24 +1,82 @@
-# 💫 About Me:
-👋 Hi, I’m Sameer Singh<br><br>Aspiring Data Scientist / Data Engineer / Machine Learning Engineer. Currently working as a Product Analyst in Vadodara, India. I love solving real-world problems with data, transforming raw information into insights that lead to smart decisions. 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-singh-095854177) 
-
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=modelmaven&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=modelmaven&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=modelmaven&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=modelmaven&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=modelmaven&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There+👋+I'm+Sameer+Singh;Product+Analyst+%26+Aspiring+ML+Engineer;Data+Science+%7C+Data+Engineering+%7C+Analytics)](https://git.io/typing-svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=modelmaven&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- Product Analyst based in Vadodara, India  
+- Aspiring **Data Scientist / Data Engineer / ML Engineer**  
+- Strong background in **statistics**, **data analysis**, and **decision-making using data**  
+- I enjoy taking messy, real-world data and turning it into clear, actionable insights  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Query**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-27B4F5?logo=AzureCosmosDB&logoColor=white" />
+</p>
+
+**Data & Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Concepts**
+
+- Machine Learning  
+- ETL & Data Engineering Workflows  
+- Exploratory Data Analysis (EDA)  
+- Statistical Modeling & Hypothesis Testing  
+
+---
+
+## 💼 Experience
+
+- **Product Analyst** — Exxat (May 2024 – Present)  
+- **Data Analyst** — Stemmons Business Services Pvt. Ltd. (Jun 2023 – May 2024)  
+- **Data Analyst** — Masai (Jun 2022 – Jan 2023)  
+
+---
+
+## 🎓 Education
+
+- **B.Sc in Statistics** — The Maharaja Sayajirao University of Baroda  
+- **Data Analytics Certificate** — Masai School  
+
+---
+
+## 🚧 Projects
+
+### 🖼️ Image to HTML Converter
+
+A web-based utility that helps turn UI ideas or screenshots into starter HTML structure.  
+Features include:
+
+- Split layout for **input/form** and **generated code**
+- **Scrollable code panel** (both horizontal and vertical)
+- **Draggable divider** to resize form and output area
+- Built with a focus on rapid UI experimentation
+
+**Tech**: HTML, CSS, Tailwind CSS, JavaScript  
+
+> (Add the repo link once it’s public, e.g.  
+> `🔗 Repo: [Image to HTML Converter](https://github.com/modelmaven/image-to-html-converter)`)
+
+---
+
+## 📨 Let’s Connect
+
+- 📧 **Email**: samsingh1770@gmail.com  
+- 🔗 **LinkedIn**: [sameer-singh-095854177](https://www.linkedin.com/in/sameer-singh-095854177/)  
+
+---
